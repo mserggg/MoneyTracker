@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoneyTracker</string>
+    <string name="test_string">Money_Tracker_test_string</string>
+</resources>
